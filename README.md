@@ -1,2 +1,5 @@
 # LaTeX-Framework
-LaTeX Framework for scientific things
+LaTeX-Framework for scientific things
+
++ Compile with Xelatex
++ use Biblatex for bibliography
