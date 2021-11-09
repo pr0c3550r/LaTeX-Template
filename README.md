@@ -1,5 +1,5 @@
 # LaTeX-Template
-LaTeX-Template for scientific things
+LaTeX-Template for things
 
 + Compile with Xelatex
 + use Biblatex for bibliography
